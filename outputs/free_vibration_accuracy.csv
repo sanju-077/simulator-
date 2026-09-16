@@ -1,0 +1,10 @@
+regime,method,step_size_s,max_abs_error_m
+Underdamped,euler,0.005,0.02503332930037984
+Underdamped,heun,0.005,0.0003072362421371994
+Underdamped,rk4,0.005,3.844044644662342e-08
+Critically damped,euler,0.005,0.0007887952450886145
+Critically damped,heun,0.005,2.048644248622833e-05
+Critically damped,rk4,0.005,6.332393651109491e-09
+Overdamped,euler,0.005,0.00026697801341330624
+Overdamped,heun,0.005,1.880572177129225e-05
+Overdamped,rk4,0.005,3.3519415881810843e-08
